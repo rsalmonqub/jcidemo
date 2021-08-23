@@ -9,5 +9,10 @@ public class Calculator {
 		return a-b;
 	}
 	
+	private void example() {
+		System.out.println("hello");
+
+	}
+	
 }
 
